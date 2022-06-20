@@ -1,0 +1,71 @@
+1.  What is lexical structure?
+
+Ans.)  The basic rules about how to write program in this language. There is rules liked what should be the variable name
+       how to do comments. This type of things is called as lexical structure.
+
+
+2.  What is Unicode?
+
+Ans.)  Unicode code is the international encoding structure which has include numbers letters or symbol which give a unique
+       numbers.
+
+
+3.  Explain all the keywords present in the JavaScript with examples.
+
+Ans.)  Keywords are reserved words that are part of the syntax in the programming language. and we can't use it anywhere else.
+
+1. goto keyword:- Used to return execution control to a specific location.
+
+2. in keyword:- It is an operator returns true if the specified property is present in the specified object, else it returns false.
+
+3. instanceof keyword:- Returns true if the object is an instance of the class otherwise false.
+
+4. arguments keyword:- Represents the list of parameters passed to the function when calling the function.
+
+5. public keyword:- It is an access modifier that can be used with attributes, classes, constructors and methods which make it accessible
+                    to other classe
+
+6.  Do keyword:-  Used to define a do-while loop.
+
+7. Function keyword:- Used to define a function to execute a block of code.
+
+8. class keyword:-  Used to define a class.
+
+9. return keyword:-  Used to return from the function or method with or without a value.
+
+10.  Eval keyword:-  Used to evaluate a specified string. The eval use as a global function eval().
+
+11. For keyword:-  Used to define a loop, for loop to repeatedly execute a block of code until a condition true.
+
+12.  12. if keyword:-  Used to define a conditioned construct. if the statement is used to run a block of code if the condition is true.
+
+13. Break keyword:-  used into a loop to break or stop the execution of the loop.
+
+14. debugger keyword:-  Used to stop the execution of javascript code and call debugging function if define. Debugger keyword word the same as
+                        the break.
+
+15. Yield keyword:-  Used to pause and resume a generator function. The generator function is the same as a normal function but for 
+                     returning a value in place of return it uses yield keyword.
+
+
+4. What are shorthand operators, explain with a suitable example?
+
+Ans.) combines one of the arithmetic or bitwise operators with the assignment operator. They are also called as compound assignment operators.
+
+int a = 20 ;
+
+a += 10 ;          // which means a = a + 10 , Output is 30
+
+int z = 10 ;
+
+z *= 10 ;           // which means z = z * 10 , Output is 100
+
+
+5.  What is “use Strict” in JavaScript?
+
+Ans.)   It eliminates some JavaScript silent errors by changing them to throw errors. Strict mode applies to entire scripts or to individual
+        functions. It doesn't apply to block statements enclosed in {} braces.
+
+                          
+
+
